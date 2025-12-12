@@ -1,0 +1,1 @@
+# EC521-Home-Assistant-Security-Assessment
